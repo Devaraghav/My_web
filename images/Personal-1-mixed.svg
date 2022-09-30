@@ -1,0 +1,18 @@
+<svg id="Personal-1-mixed" xmlns="http://www.w3.org/2000/svg" width="90.141" height="78.012" viewBox="0 0 90.141 78.012">
+  <g id="services" transform="translate(-824 -1706)">
+    <g id="Group_14" data-name="Group 14" transform="translate(350 1552)">
+      <g id="_1-copy-3" data-name="1-copy-3" transform="translate(356 109)">
+        <g id="web-programming" transform="translate(118 45)">
+          <path id="Path" d="M90.141,8.649V21.21H0V8.649A8.723,8.723,0,0,1,8.794,0H81.347A8.723,8.723,0,0,1,90.141,8.649Z" fill="#f8ec7d"/>
+          <g id="Group" transform="translate(0 7.954)">
+            <path id="Path-2" data-name="Path" d="M39.73.107A3.292,3.292,0,0,1,43.05,3.373a3.331,3.331,0,0,1-6.661-.021A3.3,3.3,0,0,1,39.73.107Z" fill="#e48e66"/>
+            <path id="Path-3" data-name="Path" d="M90.141,13.77V61.465a8.7,8.7,0,0,1-8.794,8.594H8.794A8.7,8.7,0,0,1,0,61.465V13.77Z" fill="#6c6ce5"/>
+            <path id="Path-4" data-name="Path" d="M24.766.062a3.293,3.293,0,0,1,3.32,3.266,3.332,3.332,0,0,1-6.662-.021,3.221,3.221,0,0,1,.983-2.3A3.371,3.371,0,0,1,24.766.062Z" fill="#e48e66"/>
+            <path id="Path-5" data-name="Path" d="M9.8.015a3.293,3.293,0,0,1,3.322,3.266,3.333,3.333,0,0,1-6.664-.019,3.217,3.217,0,0,1,.983-2.3A3.37,3.37,0,0,1,9.8.015Z" fill="#e48e66"/>
+          </g>
+          <text id="_" data-name="{ }" transform="translate(25.5 57.5)" fill="#f8ec7d" stroke="#f8ec7d" stroke-width="1" font-size="40" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">{ }</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
